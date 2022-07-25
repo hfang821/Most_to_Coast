@@ -35,7 +35,7 @@ Backend Instructions, Sample Queries and Mutations (Without Seeds):
 - To create a travel plan: 
 ![image](https://user-images.githubusercontent.com/95199209/180855508-8a84de3d-2912-423e-a6a2-a80a8b8d01e6.png)
 
--To create days in the travel plan, copy the `_id` of the travel plan, and input into the variables:
+- To create days in the travel plan, copy the `_id` of the travel plan, and input into the variables:
 ![image](https://user-images.githubusercontent.com/95199209/180855990-98a0016b-db0b-460c-9253-15e68bd39654.png)
 
 - To create an activity in the day, copy the `_id` of both the travel plan and day, then input into variables:
@@ -48,7 +48,8 @@ Backend Instructions, Sample Queries and Mutations (Without Seeds):
 - To update an activity, copy the `_id` of the activity and input into the variables:
 ![image](https://user-images.githubusercontent.com/95199209/180859841-65b712dc-ad4d-48fb-a611-f5307ed43e27.png)
 
-- To update a user, copy the `_id` of the user and input into the variables.
+- To update a user, copy the `_id` of the user and input into the variables:
+![image](https://user-images.githubusercontent.com/95199209/180872904-ceb407d4-c115-40aa-9525-91f085c890ca.png)
 
 #### DELETE:
 - To remove an activity, enter the `id` of the activity and the `dayId` that activity belongs to.
