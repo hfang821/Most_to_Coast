@@ -1,5 +1,9 @@
 # Most_to_Coast
 
+## Guest Login Information:
+Guest Login Email: guest@guest.com <br>
+Password: guest
+
 ## Description: 
 This app will reduce travel planning time. Creating a time schedule for the trip would be a little troublesome to some people and sometimes have no clue where one should go and how they should plan. This app will be the solution to those problems.
 
